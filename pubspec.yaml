@@ -1,4 +1,4 @@
-name: project_!
+name: project_1
 description: "A new Flutter project."
 publish_to: 'none'
 
@@ -15,6 +15,7 @@ dependencies:
   shared_preferences: ^2.3.2
   share_plus: ^10.0.9
   cupertino_icons: ^1.0.8
+
 
 dev_dependencies:
   flutter_test:
